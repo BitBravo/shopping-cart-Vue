@@ -5,7 +5,7 @@
         <div class="modal-header">
           <h4 class="modal-title" style="margin: 0 auto">
             More About
-            <span style="color:crimson">ikismail</span>
+            <span style="color:crimson">giant63</span>
           </h4>
         </div>
         <div class="modal-body">
@@ -19,10 +19,10 @@
           >
           <h3 class="media-heading">Mohammed Ismail</h3>
           <h6>
-            <strong>ikismail7@gmail.com</strong>
+            <strong>giant63@gmail.com</strong>
           </h6>
           <h6>
-            <a href="https://ikismail.github.io/" target="_blank">ikismail.github.io</a>
+            <a href="https://giant63.github.io/" target="_blank">giant63.github.io</a>
             <strong></strong>
           </h6>
 

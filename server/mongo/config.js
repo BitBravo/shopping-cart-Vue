@@ -1,5 +1,5 @@
 const mongoose = require('mongoose')
-mongoose.connect('mongodb://ikismail:qwerty12@ds127362.mlab.com:27362/vue-shop', {
+mongoose.connect('mongodb://giant63:qwerty12@ds127362.mlab.com:27362/vue-shop', {
     useNewUrlParser: true
 }); // connect to our database
 
